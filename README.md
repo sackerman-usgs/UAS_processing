@@ -1,5 +1,5 @@
 # UAS_processing
-Creators: Seth Ackerman (@sackerman-usgs), Emily Sturdivant (@esturdivant-usgs), Chris Sherwood (@csherwood-usgs)
+Creators: Seth Ackerman (@sackerman-usgs), Emily Sturdivant (@esturdivant-usgs)
 
 Jupyter notebook to process image and GPX files.
 
