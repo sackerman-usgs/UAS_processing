@@ -1,0 +1,16 @@
+name: uas-processing
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - lxml
+  - ipython
+  - jupyter
+  - ipywidgets
+  - pillow
+  - nodejs
+  - pandas
+  - numpy
+  - matplotlib
+  - ipyleaflet
