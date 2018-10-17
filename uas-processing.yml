@@ -99,5 +99,3 @@ dependencies:
   - numpy=1.15.2=py36ha559c80_0
   - numpy-base=1.15.2=py36h8128ebf_0
   - xarray=0.10.9=py36_0
-prefix: C:\Users\esturdivant\AppData\Local\Continuum\anaconda3\envs\uas-processing
-
