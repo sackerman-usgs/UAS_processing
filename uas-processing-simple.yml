@@ -6,7 +6,7 @@ dependencies:
   - python=3
   - lxml
   - ipython
-  - jupyter
+  - jupyterlab
   - ipywidgets
   - pillow
   - nodejs
